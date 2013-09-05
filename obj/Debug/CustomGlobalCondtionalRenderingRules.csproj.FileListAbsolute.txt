@@ -1,0 +1,6 @@
+c:\users\jgeorgiades\documents\visual studio 2010\Projects\CustomGlobalCondtionalRenderingRules\bin\CustomGlobalCondtionalRenderingRules.dll
+c:\users\jgeorgiades\documents\visual studio 2010\Projects\CustomGlobalCondtionalRenderingRules\bin\CustomGlobalCondtionalRenderingRules.pdb
+c:\users\jgeorgiades\documents\visual studio 2010\Projects\CustomGlobalCondtionalRenderingRules\bin\Sitecore.Kernel.dll
+c:\users\jgeorgiades\documents\visual studio 2010\Projects\CustomGlobalCondtionalRenderingRules\obj\Debug\CustomGlobalCondtionalRenderingRules.csprojResolveAssemblyReference.cache
+c:\users\jgeorgiades\documents\visual studio 2010\Projects\CustomGlobalCondtionalRenderingRules\obj\Debug\CustomGlobalCondtionalRenderingRules.dll
+c:\users\jgeorgiades\documents\visual studio 2010\Projects\CustomGlobalCondtionalRenderingRules\obj\Debug\CustomGlobalCondtionalRenderingRules.pdb
